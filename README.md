@@ -11,7 +11,7 @@ Technology
 * Maven
 * MongoDB
 * Spring MVC
-* Java
+* Java 8
 
 Compile this project with Eclipse and go to the: http://localhost:8080/swagger-ui.html to see 2 apis!
 
